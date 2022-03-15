@@ -59,7 +59,7 @@
 - Firebase API 를 프로젝트에 연동합니다.
 - UIKit 환경에서 UIHostingController를 통해 SwiftUI 환경을 구현합니다.
 
-
+### [Step 2]
 
 ---
 
