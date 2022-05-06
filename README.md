@@ -10,18 +10,9 @@
 - Swift Package Manager 을 사용하여 의존성을 관리합니다.
 
 
-
-### 🧑🏻‍💻 **참여자**
-
-| 리뷰어                                          | 개발자                                            |
-| ----------------------------------------------- | ------------------------------------------------- |
-| [@GREENOVER](https://github.com/GREENOVER) 그린 | [@singularis7](https://github.com/smart8612) 신나 |
-
-
-
 ### 📆 **기간**
 
-- **메인 프로젝트 기간**: 2022.02.28 ~ 2022.03.11
+- **메인 프로젝트 기간**: 2022.03.02 ~ 2022.05.06
 
 
 
@@ -58,11 +49,6 @@
 - Database 기술로 Firebase 의 FireStore, realm 을 선정합니다.
 - Firebase API 를 프로젝트에 연동합니다.
 - UIKit 환경에서 UIHostingController를 통해 SwiftUI 환경을 구현합니다.
-
-### [Step 2]
-
----
-
 
 
 ### 🤔 프로젝트 핵심 고민 사항
